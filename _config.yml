@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ertan Kazıklı"
   avatar           : "profile.png"
-  bio              : "Assistant Professor \n Electrical and Electronics Engineering \\ TOBB University of Economics and Technology"
+  bio              : "Assistant Professor, Electrical and Electronics Engineering"
   location         : 
   employer         :
   pubmed           : 
@@ -200,15 +200,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -218,23 +209,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:

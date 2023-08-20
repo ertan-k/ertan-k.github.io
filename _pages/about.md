@@ -23,3 +23,17 @@ Education
 - B.Sc. in Electrical and Electronics Engineering, 2012\
 [Bilkent University](https://w3.bilkent.edu.tr/bilkent/), Ankara, Turkey
 
+Professional Experience
+---
+- Assistant Professor, Sept. 2022 – present
+Electrical and Electronics Engineering, TOBB University of Economics and Technology, Ankara, Turkey
+- Postdoctoral Research Fellow, Sept. 2021 – Aug. 2022
+Mathematics and Statistics, Queen's University, Kingston, Canada
+- Master Thesis Student, Oct. 2014 - Mar. 2015
+Sony European Technology Center, Stuttgart, Germany
+- Intern, Mar. 2014 - Aug. 2014
+ABB Power Systems Substation Automation R&D Center, Baden, Switzerland
+
+
+
+

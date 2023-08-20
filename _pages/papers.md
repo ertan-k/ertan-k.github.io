@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Journal Papers
-===
+---
 - **E. Kazıklı**, S. Gezici, and S. Yüksel. "[Signaling games in multiple dimensions: Geometric properties of equilibrium solutions](https://doi.org/10.1016/j.automatica.2023.111180)." *[Automatica](https://www.sciencedirect.com/journal/automatica).* Vol. 156, article no. 111180 (2023). 
 - **E. Kazıklı**, S. Sarıtaş, S. Gezici, and S. Yüksel. "[Quadratic Signaling With Prior Mismatch at an Encoder and Decoder: Equilibria, Continuity, and Robustness Properties](https://doi.org/10.1109/TAC.2022.3142121)." *[IEEE Transactions on Automatic Control](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9).* Vol. 68, no. 2 (2023). 
 - **E. Kazıklı**, S. Gezici, and S. Yüksel. "[Quadratic Privacy-Signaling Games and the MMSE Information Bottleneck Problem for Gaussian Sources](https://doi.org/10.1109/TIT.2022.3177258)." *[IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18)*. Vol. 68, no. 9 (2022).
@@ -16,5 +16,5 @@ Journal Papers
 
 
 Conference Papers
-===
+---
 

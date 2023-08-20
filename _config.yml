@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ertan Kazıklı"
 title_separator          : "-"
 name                     : &name "Ertan Kazıklı"
-description              : &description "personal description"
+description              : 
 url                      : "https://ertan-k.github.io"
 baseurl                  : 
 repository               : "ertan-k/ertan-k.github.io"

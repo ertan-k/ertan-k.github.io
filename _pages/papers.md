@@ -18,5 +18,5 @@ Journal Papers
 Conference Papers
 ---
 - **E. Kazıklı**, S. Gezici, and S. Yüksel. “[Quadratic privacy-signaling games and payoff dominant equilibria](https://doi.org/10.1109/ISIT44484.2020.9174355).” *2020 IEEE International Symposium on Information Theory (ISIT)* (pp. 1367-1372).
-- **E. Kazıklı**, S. Gezici, and S. Yüksel. "[Signaling games in higher dimensions: Geometric properties of equilibrium partitions](https://doi.org/10.23919/WiOpt52861.2021.9589560)." * 2021 19th International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt)* (pp. 256-263).
+- **E. Kazıklı**, S. Gezici, and S. Yüksel. "[Signaling games in higher dimensions: Geometric properties of equilibrium partitions](https://doi.org/10.23919/WiOpt52861.2021.9589560)." *2021 International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt)* (pp. 256-263).
 

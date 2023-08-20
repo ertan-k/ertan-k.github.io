@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Ertan Kazıklı"
-  avatar           : "profile.png"
-  bio              : "Assistant Professor"
+  avatar           : 
+  bio              : "Assistant Professor\ Electrical and Electronics Engineering"
   location         : 
-  employer         :
+  employer         : "TOBB University of Economics and Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lS1QihMAAAAJ&hl=en"
-  email            :
+  email            : "ekazikli (at) etu.edu.tr"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0003-0465-3749"
   pinterest        :
   soundcloud       :
   stackoverflow    :

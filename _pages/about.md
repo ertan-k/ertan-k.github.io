@@ -34,4 +34,12 @@ Sony European Technology Center, Stuttgart, Germany
 - Intern, Mar. 2014 - Aug. 2014\
 ABB Power Systems Substation Automation R&D Center, Baden, Switzerland
 
+Contact
+---
+TOBB University of Economics and Technology
+Department of Electrical and Electronics Engineering
+Söğütözü, Söğütözü Cd. No:43, 06510 Çankaya/Ankara
+Office: 135
+Tel: +90 312 292 4084
+E-mail: ekazikli (at) etu.edu.tr
 

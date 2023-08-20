@@ -25,15 +25,13 @@ Education
 
 Professional Experience
 ---
-- Assistant Professor, Sept. 2022 – present\
-Electrical and Electronics Engineering, TOBB University of Economics and Technology, Ankara, Turkey
+- Assistant Professor of Electrical and Electronics Engineering, Sept. 2022 – present\
+[TOBB University of Economics and Technology](https://www.etu.edu.tr/en), Ankara, Turkey
 - Postdoctoral Research Fellow, Sept. 2021 – Aug. 2022\
-Mathematics and Statistics, Queen's University, Kingston, Canada
+Department of Mathematics and Statistics, [Queen's University](https://www.queensu.ca/), Kingston, Canada
 - Master Thesis Student, Oct. 2014 - Mar. 2015\
 Sony European Technology Center, Stuttgart, Germany
 - Intern, Mar. 2014 - Aug. 2014\
 ABB Power Systems Substation Automation R&D Center, Baden, Switzerland
-
-
 
 

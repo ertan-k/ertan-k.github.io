@@ -18,7 +18,7 @@ Education
 - Ph.D. in Electrical and Electronics Engineering, 2021\
 [Bilkent University](https://w3.bilkent.edu.tr/bilkent/), Ankara, Turkey
 - M.Sc. in Computer Science, 2015\
-[École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/), Lausanne, Switzerland
+[École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Lausanne, Switzerland
 - B.Sc. in Electrical and Electronics Engineering, 2012\
 [Bilkent University](https://w3.bilkent.edu.tr/bilkent/), Ankara, Turkey
 

@@ -5,6 +5,12 @@ permalink: /papers/
 author_profile: true
 ---
 
+Preprints
+---
+- **E. Kazıklı**, S. Gezici, and S. Yüksel. "[Truth Revelation, Information Hiding, or Misinformation: Characterization of Equilibrium
+Outcomes in Signaling Games]." 
+
+
 Journal Papers
 ---
 - **E. Kazıklı**, S. Gezici, and S. Yüksel. "[Signaling games in multiple dimensions: Geometric properties of equilibrium solutions](https://doi.org/10.1016/j.automatica.2023.111180)." *[Automatica](https://www.sciencedirect.com/journal/automatica).* Vol. 156, article no. 111180 (2023). 

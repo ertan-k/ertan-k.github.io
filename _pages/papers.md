@@ -17,6 +17,7 @@ Journal Papers
 
 Conference Papers
 ---
+- E. E. Ceyani, **E. Kazıklı**, and S. Gezici. “[Transmission of binary sequences over Gaussian channels under privacy constraints](https://doi.org/10.1109/WCNC65185.2026.11555746).” *[2026 IEEE Wireless Communications and Networking Conference (WCNC)](https://doi.org/10.1109/WCNC65185.2026.11555746)).* (pp. 1-6).
 - **E. Kazıklı**, S. Gezici, and S. Yüksel. “[Quadratic privacy-signaling games and payoff dominant equilibria](https://doi.org/10.1109/ISIT44484.2020.9174355).” *[2020 IEEE International Symposium on Information Theory (ISIT)](https://doi.org/10.1109/ISIT44484.2020).* (pp. 1367-1372).
 - **E. Kazıklı**, S. Gezici, and S. Yüksel. "[Signaling games in higher dimensions: Geometric properties of equilibrium partitions](https://doi.org/10.23919/WiOpt52861.2021.9589560)." *[2021 International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt)](https://doi.org/10.23919/WiOpt52861.2021).* (pp. 256-263).
 

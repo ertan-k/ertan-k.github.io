@@ -7,8 +7,8 @@ author_profile: true
 
 Preprints
 ---
-- **E. Kazıklı**, S. Gezici, and S. Yüksel. "[Truth Revelation, Information Hiding, or Misinformation: Characterization of Equilibrium
-Outcomes in Signaling Games]." 
+- **E. Kazıklı**, S. Gezici, and S. Yüksel. "Truth Revelation, Information Hiding, or Misinformation: Characterization of Equilibrium
+Outcomes in Signaling Games."
 
 
 Journal Papers
